@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <sinhvien>
+    <name>Huy</name>
+    <age>20</age>
+    <gpa>3.8</gpa>
+  </sinhvien>
+  <sinhvien>
+    <name>My</name>
+    <age>20</age>
+    <gpa>3.8</gpa>
+  </sinhvien>
+  <sinhvien>
+    <name>Nga</name>
+    <age>19</age>
+    <gpa>3.9</gpa>
+  </sinhvien>
+  <sinhvien>
+    <name>Tung</name>
+    <age>19</age>
+    <gpa>3.9</gpa>
+  </sinhvien>
+</students>

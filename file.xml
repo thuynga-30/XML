@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<directory>
+  <ChatCP>
+       <file>.classpath</file>
+       <file>.project</file>
+    <.settings>
+         <file>org.eclipse.core.resources.prefs</file>
+         <file>org.eclipse.jdt.core.prefs</file>
+    </.settings>
+    <bin>
+         <file>ChatPanel$1.class</file>
+         <file>ChatPanel.class</file>
+         <file>ClientChatter$1.class</file>
+         <file>ClientChatter$2.class</file>
+         <file>ClientChatter.class</file>
+         <file>ManagerChatter$1.class</file>
+         <file>ManagerChatter.class</file>
+         <file>OutputThread.class</file>
+    </bin>
+    <src>
+         <file>ChatPanel$1.class</file>
+         <file>ChatPanel.class</file>
+         <file>ChatPanel.java</file>
+         <file>ClientChatter.java</file>
+         <file>ManagerChatter$1.class</file>
+         <file>ManagerChatter.class</file>
+         <file>ManagerChatter.java</file>
+         <file>OutputThread.class</file>
+         <file>OutputThread.java</file>
+    </src>
+  </ChatCP>
+</directory>
